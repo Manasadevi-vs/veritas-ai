@@ -138,8 +138,8 @@ veritasai/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/veritasai.git
-cd veritasai
+git clone https://github.com/<your-username>/veritas-ai.git
+cd veritas-ai
 ```
 
 ### **2. Create a virtual environment**
