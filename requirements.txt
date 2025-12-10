@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+mlflow
+joblib
+streamlit
+fastapi
+uvicorn[standard]
+shap
+openai
+langchain
+langchain-openai
+requests

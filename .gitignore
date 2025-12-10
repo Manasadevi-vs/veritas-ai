@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE configs
+.vscode/
+.idea/
+
+# MLflow & artifacts
+mlruns/
+mlflow.db
+
+# Data & models
+data/
+models/
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
